@@ -54,7 +54,7 @@ button:hover {
 
 .header-container {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .header-container h1 {
@@ -64,7 +64,7 @@ button:hover {
 
 .description-container {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
 
 .description-container p {
